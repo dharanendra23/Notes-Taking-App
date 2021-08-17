@@ -1,9 +1,9 @@
 # Notes-Taking-App
-GUI made with python and it uses mysql database.
+GUI made with python for writing the notes and saving it using mysql database.
 
 ## Steps to follow for executing the code:
 1. Install mysql, email, smtplib and os modules.
-2. At line number 14 put the user name and password of the database.
+2. At line number 14 put the user name and password of the sql server.
 3. Run the program.
 
 ## Screenshot of the GUI:
