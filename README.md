@@ -7,4 +7,5 @@ GUI made with python and it uses mysql database.
 3. Run the program.
 
 ## Screenshot of the GUI:
-![Screenshot (199)](https://user-images.githubusercontent.com/66907275/129682934-d13f7f97-aaa4-42b2-ad28-5ada07198f11.png)
+![Screenshot (217)](https://user-images.githubusercontent.com/66907275/129683352-2702c808-24bf-4206-bd65-f0f922383364.png)
+
